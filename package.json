@@ -14,6 +14,10 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/sousamiqueias/tuto_criando_site_responsivo_hx#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
-  }
+    "gulp": "^3.9.1",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11"
+  },
+  "dependencies": {}
 }
